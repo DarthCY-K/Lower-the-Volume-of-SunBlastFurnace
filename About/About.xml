@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ModMetaData>
+	<name>Lower the Volume of SunBlastFurnace</name>
+	<author>DarthCY</author>
+	<supportedVersions>
+		<li>1.5</li>
+	</supportedVersions>
+	<description>Lower the Volume of SunBlastFurnace to 40%.</description>
+	<packageId>DarthCY.Misc.Patch.LTVOS</packageId>
+	<modDependencies>
+		<li>
+			<packageId>Ancot.MiliraRace</packageId>
+			<displayName>MiliraRace</displayName>
+			<steamWorkshopUrl>steam://url/CommunityFilePage/3256974620</steamWorkshopUrl>
+		</li>
+	</modDependencies>
+	<loadAfter>
+		<li>Ancot.MiliraRace</li>
+	</loadAfter>
+</ModMetaData>
